@@ -1,8 +1,13 @@
-## TIL
-Today I Learned
+# 📚 Today I Learned (TIL)
+
+> 매일 배운 것들을 기록하는 공간입니다 ✨  
+> “TIL: Today I Learned” means learning something new each day.
 
 ---
-### Java
+
+## 📌 목차
+
+### ☕ Java
 1. [기본 문법](./Java/기본%20문법.md)
 2. [추상화](./Java/추상화.md)
 3. [상속](./Java/상속.md)
@@ -15,8 +20,7 @@ Today I Learned
 10. [파일 입출력](./Java/파일%20입출력.md)
 11. [XML/Json](./Java/XML%20Json.md)
 
----
-### 알고리즘
+### 📊 알고리즘
 1. [기본 문법](./알고리즘/기본%20문법.md)
 2. [스택](./알고리즘/스택.md)
 3. [큐](./알고리즘/큐.md)
@@ -25,3 +29,6 @@ Today I Learned
 6. [트리1](./알고리즘/트리1.md)
 7. [트리2](./알고리즘/트리2.md)
 8. [순열](./알고리즘/순열.md)
+
+### 🎨 FrontEnd
+1. [HTML](./Front/HTML.md)
