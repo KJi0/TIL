@@ -33,3 +33,4 @@
 ### 🎨 FrontEnd
 1. [HTML](./Front/HTML.md)
 2. [CSS1](./Front/CSS1.md)
+3. [CSS2](./Front/CSS2.md)
