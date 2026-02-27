@@ -20,6 +20,8 @@
 10. [파일 입출력](./Java/file-io.md)
 11. [XML/Json](./Java/xml-json.md)
 
+<br>
+
 ### 📊 알고리즘
 1. [기본 문법](./알고리즘/basic-syntax.md)
 2. [스택](./알고리즘/stack.md)
@@ -29,6 +31,8 @@
 6. [트리1](./알고리즘/tree1.md)
 7. [트리2](./알고리즘/tree2.md)
 8. [순열](./알고리즘/permutation.md)
+
+<br>
 
 ### 🎨 FrontEnd
 1. [HTML](./Front/HTML.md)
