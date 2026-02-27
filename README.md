@@ -3,7 +3,7 @@
 > 매일 배운 것들을 기록하는 공간입니다.  
 > “TIL: Today I Learned” means learning something new each day.
 
----
+<br>
 
 ## 📌 목차
 
